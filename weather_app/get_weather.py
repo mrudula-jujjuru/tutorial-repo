@@ -1,7 +1,7 @@
 import requests
 
 #set value api key from OpenWeatherMap after signup
-api_key = '8b710a0ac414675952e8e6f0df43838d' #"your_api_key_here"
+api_key = '' #"your_api_key_here"
 #get weather data from OpenWeatherMap using get request
 
 def get_weather(city):
